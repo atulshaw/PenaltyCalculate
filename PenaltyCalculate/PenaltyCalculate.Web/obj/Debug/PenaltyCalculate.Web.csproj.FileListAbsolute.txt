@@ -1,0 +1,144 @@
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.dll.config
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.exe
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.exe.config
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.rsp
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csi.exe
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csi.rsp
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.AppContext.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.exe
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.exe.config
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.rsp
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\VBCSCompiler.exe
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csprojAssemblyReference.cache
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csproj.CoreCompileInputs.cache
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csproj.CopyComplete
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.pdb
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.dll.config
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.pdb
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.exe
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.exe.config
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.rsp
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csi.exe
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csi.rsp
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.AppContext.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.exe
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.exe.config
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.rsp
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\VBCSCompiler.exe
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csprojAssemblyReference.cache
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csproj.CoreCompileInputs.cache
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csproj.CopyComplete
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.dll.config
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.exe
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.exe.config
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.rsp
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csi.exe
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csi.rsp
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.AppContext.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.exe
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.exe.config
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.rsp
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\VBCSCompiler.exe
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csprojAssemblyReference.cache
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csproj.CoreCompileInputs.cache
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csproj.CopyComplete
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.pdb
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.dll.config
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\PenaltyCalculate.Web.pdb
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.exe
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.exe.config
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csc.rsp
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csi.exe
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\csi.rsp
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.AppContext.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.exe
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.exe.config
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\vbc.rsp
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\VBCSCompiler.exe
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csprojAssemblyReference.cache
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csproj.CoreCompileInputs.cache
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.csproj.CopyComplete
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.dll
+D:\All Backup\Atul_Kumar_Shaw\PenaltyCalculate\PenaltyCalculate.Web\obj\Debug\PenaltyCalculate.Web.pdb

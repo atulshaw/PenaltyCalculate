@@ -1,0 +1,140 @@
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Test.dll.config
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Test.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Test.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Effort.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Effort.Extra.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\EntityFramework.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\NMemory.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.API.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Data.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Service.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Helpers.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Mvc.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Razor.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\WebActivatorEx.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.Cors.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.WebHost.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.Net4.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.Web.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Cors.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.API.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.API.dll.config
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Data.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Data.dll.config
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Service.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Effort.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Effort.Extra.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Effort.Extra.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\EntityFramework.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\NMemory.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Helpers.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Mvc.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Razor.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.Cors.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.WebHost.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.Net4.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.Web.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.Web.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\obj\Debug\PenaltyCalculate.Test.csprojAssemblyReference.cache
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\obj\Debug\PenaltyCalculate.Test.csproj.CoreCompileInputs.cache
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\obj\Debug\PenaltyCalculate.Test.csproj.CopyComplete
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\obj\Debug\PenaltyCalculate.Test.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Test\obj\Debug\PenaltyCalculate.Test.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Test.dll.config
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Test.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Test.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Effort.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Effort.Extra.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\EntityFramework.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Newtonsoft.Json.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\NMemory.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.API.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Data.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Service.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Net.Http.Formatting.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Helpers.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Mvc.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Razor.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.Razor.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\WebActivatorEx.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.Cors.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.WebHost.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.Net4.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.Web.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Cors.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.API.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.API.dll.config
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Data.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Data.dll.config
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\PenaltyCalculate.Service.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Effort.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Effort.Extra.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Effort.Extra.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\EntityFramework.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Newtonsoft.Json.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\NMemory.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Net.Http.Formatting.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Helpers.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Mvc.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Razor.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.WebPages.Razor.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.Cors.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\System.Web.Http.WebHost.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.Net4.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.Web.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\bin\Debug\StructureMap.Web.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\obj\Debug\PenaltyCalculate.Test.csprojAssemblyReference.cache
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\obj\Debug\PenaltyCalculate.Test.csproj.CoreCompileInputs.cache
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\obj\Debug\PenaltyCalculate.Test.csproj.CopyComplete
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\obj\Debug\PenaltyCalculate.Test.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Test\obj\Debug\PenaltyCalculate.Test.pdb

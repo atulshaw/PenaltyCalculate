@@ -1,0 +1,36 @@
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Service.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Service.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Data.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\EntityFramework.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Data.pdb
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Data.dll.config
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\EntityFramework.xml
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.csprojAssemblyReference.cache
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.csproj.CoreCompileInputs.cache
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.csproj.CopyComplete
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.dll
+D:\Projects\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.pdb
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Service.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Service.pdb
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Data.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\EntityFramework.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Data.pdb
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Data.dll.config
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\EntityFramework.xml
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.csprojAssemblyReference.cache
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.csproj.CoreCompileInputs.cache
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.csproj.CopyComplete
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.dll
+D:\Extra\Atul\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Service.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Service.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Data.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\EntityFramework.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Data.pdb
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\PenaltyCalculate.Data.dll.config
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\bin\Debug\EntityFramework.xml
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.csprojAssemblyReference.cache
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.csproj.CoreCompileInputs.cache
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.csproj.CopyComplete
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.dll
+D:\All Backup\Atul\PenaltyCalculate\PenaltyCalculate.Service\obj\Debug\PenaltyCalculate.Service.pdb

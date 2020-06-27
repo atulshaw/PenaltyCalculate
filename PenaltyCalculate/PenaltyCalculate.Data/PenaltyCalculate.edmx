@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="PenaltyCalculateModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'PenaltyCalculate.dbo.tblCountryMasterDetails' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="tblCountryMasterDetails">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="CountryID" />
+            <PropertyRef Name="Currency" />
+            <PropertyRef Name="PenaltyFee" />
+            <PropertyRef Name="PenaltyCalculateDays" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CountryID" Type="varchar" MaxLength="10" Nullable="false" />
+          <Property Name="Country" Type="varchar" MaxLength="100" />
+          <Property Name="Currency" Type="nvarchar" MaxLength="5" Nullable="false" />
+          <Property Name="PenaltyFee" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="PenaltyCalculateDays" Type="int" Nullable="false" />
+          <Property Name="Weekends" Type="varchar" MaxLength="100" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'PenaltyCalculate.dbo.tblholiday' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="tblholiday">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CountryID" Type="varchar" MaxLength="50" />
+          <Property Name="CountryName" Type="varchar" MaxLength="50" />
+          <Property Name="NationalHoliday" Type="datetime" />
+        </EntityType>
+        <EntityContainer Name="PenaltyCalculateModelStoreContainer">
+          <EntitySet Name="tblCountryMasterDetails" EntityType="Self.tblCountryMasterDetails" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [tblCountryMasterDetails].[ID] AS [ID], 
+    [tblCountryMasterDetails].[CountryID] AS [CountryID], 
+    [tblCountryMasterDetails].[Country] AS [Country], 
+    [tblCountryMasterDetails].[Currency] AS [Currency], 
+    [tblCountryMasterDetails].[PenaltyFee] AS [PenaltyFee], 
+    [tblCountryMasterDetails].[PenaltyCalculateDays] AS [PenaltyCalculateDays], 
+    [tblCountryMasterDetails].[Weekends] AS [Weekends]
+    FROM [dbo].[tblCountryMasterDetails] AS [tblCountryMasterDetails]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="tblholiday" EntityType="Self.tblholiday" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [tblholiday].[ID] AS [ID], 
+    [tblholiday].[CountryID] AS [CountryID], 
+    [tblholiday].[CountryName] AS [CountryName], 
+    [tblholiday].[NationalHoliday] AS [NationalHoliday]
+    FROM [dbo].[tblholiday] AS [tblholiday]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="PenaltyCalculateModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="PenaltyCalculateEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tblholiday" EntityType="PenaltyCalculateModel.tblholiday" />
+          <EntitySet Name="tblCountryMasterDetails" EntityType="PenaltyCalculateModel.tblCountryMasterDetails" />
+        </EntityContainer>
+        <EntityType Name="tblholiday">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CountryID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CountryName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="NationalHoliday" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="tblCountryMasterDetails">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="CountryID" />
+            <PropertyRef Name="Currency" />
+            <PropertyRef Name="PenaltyFee" />
+            <PropertyRef Name="PenaltyCalculateDays" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CountryID" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="Country" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Currency" Type="String" Nullable="false" MaxLength="5" FixedLength="false" Unicode="true" />
+          <Property Name="PenaltyFee" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+          <Property Name="PenaltyCalculateDays" Type="Int32" Nullable="false" />
+          <Property Name="Weekends" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="PenaltyCalculateModelStoreContainer" CdmEntityContainer="PenaltyCalculateEntities">
+          <EntitySetMapping Name="tblholiday">
+            <EntityTypeMapping TypeName="PenaltyCalculateModel.tblholiday">
+              <MappingFragment StoreEntitySet="tblholiday">
+                <ScalarProperty Name="NationalHoliday" ColumnName="NationalHoliday" />
+                <ScalarProperty Name="CountryName" ColumnName="CountryName" />
+                <ScalarProperty Name="CountryID" ColumnName="CountryID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblCountryMasterDetails">
+            <EntityTypeMapping TypeName="PenaltyCalculateModel.tblCountryMasterDetails">
+              <MappingFragment StoreEntitySet="tblCountryMasterDetails">
+                <ScalarProperty Name="Weekends" ColumnName="Weekends" />
+                <ScalarProperty Name="PenaltyCalculateDays" ColumnName="PenaltyCalculateDays" />
+                <ScalarProperty Name="PenaltyFee" ColumnName="PenaltyFee" />
+                <ScalarProperty Name="Currency" ColumnName="Currency" />
+                <ScalarProperty Name="Country" ColumnName="Country" />
+                <ScalarProperty Name="CountryID" ColumnName="CountryID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="false" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

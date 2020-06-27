@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Penalty calculation</title>
+    <script src="../Scripts/Plugin/jquery-1.10.2.js"></script>
+    <script src="../Scripts/Plugin/bootstrap.min.js"></script>
+    <link href="../css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../css/CustomCSS.css" rel="stylesheet" />
+    <script src="../Scripts/Plugin/angular.js"></script>
+    <script src="../Scripts/Controller/Cotroller.js"></script>
+    <script src="../Scripts/Service/Service.js"></script>
+    <link href="../css/jquery-ui.css" rel="stylesheet" />
+    <script src="../Scripts/Plugin/jquery-ui.js"></script>
+</head>
+<body>
+    <!-- Loading Spinner Wrapper-->
+    <div ng-app="App" ng-controller="AppController as vm">
+        <div style="display:none" class="loader text-center">
+            <div class="loader-inner">
+                <div class="lds-roller mb-3">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
+                <h4 class="text-uppercase font-weight-bold">Loading</h4>
+            </div>
+        </div>
+        <div class="col-md-11 offset-md-1">
+            <span class="anchor" id="formComplex"></span>
+            <hr class="my-1">
+            <h3>Check Penalty calculation</h3>
+            <div class="form-row mt-4 dvContainer">
+                <div class="col-sm-2 pb-2">
+                    <label for="exampleAccount">Checked Out Date<span class="mandatory">*</span></label>
+                    <input type="text" ng-model="vm.CheckedOutDate" readonly name="CheckedOutDate" class="form-control datepick" id="txtCheckedOutDate" placeholder="Checked Out Date">
+                </div>
+                <div class="col-sm-2 pb-2">
+                    <label for="exampleCtrl">Book Returned Date<span class="mandatory">*</span></label>
+                    <input type="text" ng-model="vm.ReturnedDate" readonly name="ReturnedDate" class="form-control datepick" id="txtReturnedDate" placeholder="Returned Date">
+                </div>
+                <div class="col-sm-2 pb-2">
+                    <label for="exampleAmount">Country<span class="mandatory">*</span></label>
+                    <div class="input-group">
+                        <select name="countrydd" data-ng-model="vm.CountryVal" class="form-control" id="ddlCountry" ng-change="vm.getselectval()">
+                            <option value="0">--Select--</option>
+                            <option ng-repeat="country in vm.Countries" value="{{country.CountryID}}">{{country.Country}}</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-2 pb-2">
+                    <div class="input-group cutPadingButton">
+                        <input type="button" class="btn btn-primary" style="margin-right:10px" ng-click="btnPostCall()" value="Calculate">
+                    </div>
+                </div>
+            </div>
+            <div ng-if="vm.TotalBusinessDays != '--'">
+                <span ng-if="vm.PenaltycountDays != '0'"><b>Each late business day penalty fees is : </b>{{vm.PerDayLateFees}}</span>
+                <br /><span ng-if="vm.PenaltycountDays != '0'"><b>Note :-</b> A book should be returned in 10 days. Any business day after 10 days will be considered as a late day.</span>
+                <div class="form-row mt-4 dvContainer">
+                    <div class="row col-md-8">
+                        <div class="col-md-4"><span><b>Total Business Days :</b></span> {{vm.TotalBusinessDays}}</div>
+                        <div class="col-md-4"><span><b>Penalty Calculated Days :</b></span> {{vm.PenaltycountDays}}</div>
+                        <div class="col-md-4"><span><b>Penalty Amount :</b></span> {{vm.PenaltyAmount}}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script type="text/javascript">
+    $(function () {
+        $(".datepick").datepicker();
+    });
+</script>
+
+</html>
